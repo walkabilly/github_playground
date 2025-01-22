@@ -1,3 +1,8 @@
 # github_playground
 Playground for github training for the CHEP 898 course "Data Science for Epi"
-![Image] (https://tenor.com/view/santa-giving-gift-gif-4145087240890172032)
+
+![Image](https://media1.tenor.com/m/7KycrJ9MPJUAAAAd/snow-angel.gif)
+
+![image](https://media1.tenor.com/m/6-BCg1Dqts0AAAAd/olaf-frozen-olaf.gif)
+
+
