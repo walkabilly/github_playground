@@ -1,0 +1,11 @@
+---
+title: "GithubPlayground"
+author: "Leah Houseman"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+#Github Playground
+
+![snow angel](https://giphy.com/gifs/imadeit-qKltgF7Aw515K)
+
