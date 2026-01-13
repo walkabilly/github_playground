@@ -2,7 +2,7 @@
 
 Playground for github training for the CHEP 898 course "Data Science for Epi"
 
-
+ pictures
 ![alt text](https://media1.tenor.com/m/fuFMplEuaHkAAAAd/kitty-yes.gif)
 
 ![Happy](https://media1.tenor.com/m/YIWJTPNu0O4AAAAd/happy-birthday-friend-snowflake.gif)
