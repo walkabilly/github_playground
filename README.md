@@ -25,3 +25,4 @@ Playground for github training for the CHEP 898 course "Data Science for Epi"
 
 ![snow angel](https://media1.tenor.com/m/7KycrJ9MPJUAAAAC/snow-angel.gif)
 
+![Husky](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNtZWVvZnN5bWlwcXU3OHQ5ajQxY29kZGhtdnB1czQ3ZHAwa2dldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4VIACsYrWirEQ/giphy.gif)
